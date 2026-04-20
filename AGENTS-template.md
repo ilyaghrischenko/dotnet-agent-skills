@@ -1,4 +1,4 @@
-# Project: LudaFit (backend)
+# Project: [YOUR PROJECT NAME] (backend)
 
 ## Git
 - **GitHub Owner:** [YOUR LOGIN/NICKNAME].
